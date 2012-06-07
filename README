@@ -1,0 +1,2 @@
+Pauk Cards is a tiny script to convert a CSV file to an XML lesson file understood by MiniPauker (http://pauker.sf.net/).
+It generates a lesson for both directions, left side translated to right side and the other way round.
